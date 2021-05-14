@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPR01.iml" filepath="$PROJECT_DIR$/JPR01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdy/lambdy.iml" filepath="$PROJECT_DIR$/lambdy/lambdy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz01cw01/rozdz01cw01.iml" filepath="$PROJECT_DIR$/rozdz01cw01/rozdz01cw01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz01cw02/rozdz01cw02.iml" filepath="$PROJECT_DIR$/rozdz01cw02/rozdz01cw02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz01cw03/rozdz01cw03.iml" filepath="$PROJECT_DIR$/rozdz01cw03/rozdz01cw03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz04cw02/rozdz04cw02.iml" filepath="$PROJECT_DIR$/rozdz04cw02/rozdz04cw02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz04cw03/rozdz04cw03.iml" filepath="$PROJECT_DIR$/rozdz04cw03/rozdz04cw03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz04cw04/rozdz04cw04.iml" filepath="$PROJECT_DIR$/rozdz04cw04/rozdz04cw04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz05cw01/rozdz05cw01.iml" filepath="$PROJECT_DIR$/rozdz05cw01/rozdz05cw01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz05cw02/rozdz05cw02.iml" filepath="$PROJECT_DIR$/rozdz05cw02/rozdz05cw02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz05cw03/rozdz05cw03.iml" filepath="$PROJECT_DIR$/rozdz05cw03/rozdz05cw03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz05cw04/rozdz05cw04.iml" filepath="$PROJECT_DIR$/rozdz05cw04/rozdz05cw04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz06cw01/rozdz06cw01.iml" filepath="$PROJECT_DIR$/rozdz06cw01/rozdz06cw01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz06cw02/rozdz06cw02.iml" filepath="$PROJECT_DIR$/rozdz06cw02/rozdz06cw02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz07cw01/rozdz07cw01.iml" filepath="$PROJECT_DIR$/rozdz07cw01/rozdz07cw01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz09cw01/rozdz09cw01.iml" filepath="$PROJECT_DIR$/rozdz09cw01/rozdz09cw01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz09cw02/rozdz09cw02.iml" filepath="$PROJECT_DIR$/rozdz09cw02/rozdz09cw02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz09cw03/rozdz09cw03.iml" filepath="$PROJECT_DIR$/rozdz09cw03/rozdz09cw03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz10cw01/rozdz10cw01.iml" filepath="$PROJECT_DIR$/rozdz10cw01/rozdz10cw01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz11cw01/rozdz11cw01.iml" filepath="$PROJECT_DIR$/rozdz11cw01/rozdz11cw01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rozdz13cw01/rozdz13cw01.iml" filepath="$PROJECT_DIR$/rozdz13cw01/rozdz13cw01.iml" />
+    </modules>
+  </component>
+</project>
